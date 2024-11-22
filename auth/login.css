@@ -1,0 +1,18 @@
+.bg-style {
+    background-color: #8FC2E5;
+}
+
+.btn-style {
+    background-color: #EF864E;
+    border: .2rem solid #EF864E;
+}
+
+.btn-style:hover {
+    background-color: #f58c54 !important;
+    border: .2rem solid #f58c54 !important;
+}
+
+.btn-style:active {
+    background-color: #f58c54 !important;
+    border: .2rem solid #f58c54 !important;
+}
